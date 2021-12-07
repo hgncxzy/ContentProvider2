@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">智能柜管家</string>
+    <string name="hello">你好世界</string>
+    <string name="change_lan_to_english">语言切换为英文</string>
+    <string name="change_lan_to_chinese">语言切换为中文</string>
+    <string name="change_timezone_to_shanghai">切换为上海时区</string>
+    <string name="change_timezone_to_New_York">切换为纽约时区</string>
+    <string name="reboot">重启</string>
+</resources>

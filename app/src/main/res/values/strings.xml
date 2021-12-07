@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestContentProvider2</string>
+    <string name="hello">hello world</string>
+    <string name="change_lan_to_english">change_lan_to_english</string>
+    <string name="change_lan_to_chinese">change_lan_to_chinese</string>
+
+    <string name="change_timezone_to_shanghai">change_timezone_to_shanghai</string>
+    <string name="change_timezone_to_New_York">change_timezone_to_New_York</string>
+    <string name="reboot">reboot</string>
+</resources>
